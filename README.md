@@ -6,7 +6,9 @@ The script uses `moviepy`, a Python library for video editing, to compose the fi
 
 A sample output of the script is included in this repository as `Star Wars Intro.mp4`. You can also watch the video from here:
 
-![Output](https://youtu.be/0D3pBwzBJ4o)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0D3pBwzBJ4o" target="_blank"><img src="http://img.youtube.com/vi/0D3pBwzBJ4o/0.jpg" 
+alt="Star Wars Intro Video" width="240" height="180" border="10" /></a>
+
 
 
 ## Installation
