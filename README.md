@@ -4,7 +4,9 @@ This is a Python script that generates a video imitating the classic Star Wars i
 
 The script uses `moviepy`, a Python library for video editing, to compose the final video.
 
-A sample output of the script is included in this repository as `Star Wars Intro.mp4`.
+A sample output of the script is included in this repository as `Star Wars Intro.mp4`. You can also watch the video from here:
+
+![Output](https://youtu.be/0D3pBwzBJ4o)
 
 
 ## Installation
